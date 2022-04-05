@@ -23,8 +23,8 @@ export default function VHome() {
         <meta name="description" content="This is my portfolio page. The purpose of this page is to introduce my person, my coding style, and show off a little bit of my web development skills." />
         <meta name="author" content="Mykola Sotnichenko"/>
         <meta name="keywords" content="Mykola, Sotnichenko, Portfolio, Frontend, React, React Native"/>
-        <meta property="og:image" content="https://www.khudziec.com/portfolioPage.png" key="ogimage"/>
-        <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon"/>
+        {/* <meta property="og:image" content="https://www.khudziec.com/portfolioPage.png" key="ogimage"/> */}
+        <link rel="shortcut icon" href="/portfolio.png?" type="image/x-icon"/>
       </Head>
       <VMenuBar activeTab="Home"/>
       <div className={styles.content}>
