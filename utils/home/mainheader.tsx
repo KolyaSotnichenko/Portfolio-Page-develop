@@ -11,7 +11,7 @@ export function VMainHeader() {
         {useTypedText("I'm Mykola.", 50, 200)}
       </h1>
       <h2>
-        {useTypedText("Welcome on my portfolio page! I'm a Software Developer & Content Creator, currently working as TypeScript React Web Developer. Living in Kiev, Ukraine.", 30, 350)}
+        {useTypedText("Welcome on my portfolio page! I'm a TypeScript React Web Developer. Living in Kiev, Ukraine.", 30, 350)}
       </h2>
     </div>
   )
