@@ -34,14 +34,14 @@ export function VTimelineGrid() {
               <h2 className={styles.cardContentDetails}>09.2017 - 07.2021</h2>
             </div>
           </div>
-          <p className={styles.cardContentDescription}>
+          {/* <p className={styles.cardContentDescription}>
             Modules included:<br/>
-            {/* 1st Year: Mathematical Analysis, Basic Course of C++ Programming Language.<br/>
+            1st Year: Mathematical Analysis, Basic Course of C++ Programming Language.<br/>
             2nd Year: Operating Systems, Computer Networks.<br/>
             3rd Year: Advanced Course of C++ Programming Language, Using
             C# to Design Graphic Applications, The Basics of Building of Neural Network.<br/>
-            4th Year: Computer Simulation Methods, Oracle Databases.<br/> */}
-          </p>
+            4th Year: Computer Simulation Methods, Oracle Databases.<br/>
+          </p> */}
         </div>
       </div>
       <div className={styles.timelineGridItemAdjoiningCard}/>
@@ -91,6 +91,17 @@ export function VTimelineGrid() {
             Styling: Ant Design UI, CSS.<br/>
             Version Control System: <b>GitHub.</b><br/>
             Issue trancing: Trello. */}
+            Project name: TechnoNet. This project is a shop of technics for home. We used firebase for registration users and saving orders and users info. Also
+            this project was created on NextJS and used GraphQL for conversation with back end part. Styles were created with the help bootstrap and
+            SCSS. Images were saving in <b>Cloudinary</b> service. For deploing was using netlify.
+            <br/>
+            Languages: JavaScript.<br/>
+            Framework/library: <b>React(NextJS)</b>.<br/>
+            Database: <b>Firebase</b>.<br/>
+            Styling: Bootstrap, SCSS.<br/>
+            Version Control System: <b>GitHub.</b><br/>
+            Issue trancing: <b>Jira</b>.<br/>
+            Deploy: <b>Netlify</b>
           </p>
         </div>
       </div>
