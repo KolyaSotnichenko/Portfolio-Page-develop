@@ -41,19 +41,7 @@ export default function VAbout() {
               Long story short about me
             </h1>
             <h2>
-              {/* I have two leading passions in my life: one is to create,
-              and the other one is to explore the world. I love to create
-              software, especially web applications. Graphic design,
-              drawing and making animations give me a lot of fun as well.
-              I try to lead an active lifestyle. Whenever I have some spare time,
-              I try to dedicate it to learning new languages, spending my time
-              with friends and family, and traveling. I'm a huge sports fan,
-              as well, especially football. Besides that I love hiking and rock
-              climbing. I feel extremely good in the mountains. In winter
-              I ski. To relax I usually play video games or watch movies/tv series.
-              I also pay high attention to my self-development in the IT field,
-              in order to be up to date with current trends on the market.
-              Beneath you can find all of the newsletters I subscribe currently. */}
+              There are two main passions in my life: one is to create and the other is to explore the world. I love creating software, especially web applications. I try to lead an active lifestyle. Whenever I have free time, I try to spend it learning English, spending time with friends and family and traveling. I am also a big fan of sports, especially football. I also love hiking. In winter we go to relax with friends in the sauna. To relax, I usually play video games or watch movies / TV series. I also pay a lot of attention to my self-development in the IT field to keep abreast of current market trends.
             </h2>
           </Fade>
         </div>
